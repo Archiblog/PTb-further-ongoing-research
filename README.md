@@ -1,4 +1,4 @@
-# PTb-further-ongoing-research-2
+# PTb-further-ongoing-research
 
 Web map designed for further ongoing research in August 2024
 
