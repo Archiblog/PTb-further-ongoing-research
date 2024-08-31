@@ -2,4 +2,4 @@
 
 The Potteries Thinkbelt study was a working hypothesis constructed by Cedric Price as a basis for further ongoing research
 
-Made by Norman Fellows
+This repository was created by Norman Fellows
