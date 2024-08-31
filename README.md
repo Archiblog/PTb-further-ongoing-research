@@ -1,5 +1,5 @@
 # PTb-further-ongoing-research
 
-Web map designed for further ongoing research starting in August 2024
+The Potteries Thinkbelt study was a working hypothesis constructed by Cedric Price as a basis for further ongoing research
 
 Made by Norman Fellows
